@@ -7,7 +7,8 @@ Each file contains a separate project and instructions for any set-up or install
 
 * autodelete: Automatically delete movies in a specified folder after a set number of days.
 * ddns: Exactly how to setup a remote ssh connection.
-* webquery: Library with random methods using urllib and beautiful soup.
+* cvtendance: OpenCV for scanning in an attendance sheet
+* pdf\_owl: Converts a pdf containg scantron marks into an owl ready .csv
 
 License
 =======================
