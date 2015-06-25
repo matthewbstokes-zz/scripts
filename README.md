@@ -10,6 +10,7 @@ Each file contains a separate project and instructions for any set-up or install
 * cvtendance: OpenCV for scanning in an attendance sheet.
 * pdf\_owl: Converts a pdf containg scantron marks into an owl ready .csv.
 * typeracer: Automatically type keys to pwn a typing test.
+* video\_conversion: Command using ffmeg to convert to XBox360 appropriate video format for use with SMB server.
 
 License
 =======================
